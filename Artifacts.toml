@@ -1,0 +1,296 @@
+[[demumble]]
+arch = "aarch64"
+git-tree-sha1 = "6145de4230e78ad2a6c1ad9c8b9c74b8c0a59086"
+os = "macos"
+
+    [[demumble.download]]
+    sha256 = "134d20f7331b7e5d539beacb61da9809f07fc9b63a6bcd6823375f2df7732623"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.aarch64-apple-darwin.tar.gz"
+[[demumble]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b0cb8f2238913bf03de5af57bec4700ca207f1e"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "04ce86fd6a559ece28d8711a3c15663e9fc61c660a6b5eb978591d0f3b5a551f"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.aarch64-linux-gnu-cxx03.tar.gz"
+[[demumble]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "130979bd6bc96864ab0f149e3c48c58da5d22126"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "88d63793c9a6be1026f59f6b1c119ee2e8593cbe7e16768d5500ac5278c722a0"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.aarch64-linux-gnu-cxx11.tar.gz"
+[[demumble]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "14b34d84303c15e347b407c1efe03db340753ca9"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "68bd1daa79e4bea4f3a188b497bc98d573ef2c3b02599d0261c312ca6b719c5a"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.aarch64-linux-musl-cxx03.tar.gz"
+[[demumble]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c2389052c573bedef02e00585da81a7ac66db88"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "44e50786c0adf41fe4605aec641d69945f459f346f1c1d8ab1c4139687d9258f"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.aarch64-linux-musl-cxx11.tar.gz"
+[[demumble]]
+arch = "aarch64"
+git-tree-sha1 = "e0f90e31291946d2533b8e21eaa9edff3721ab7f"
+os = "freebsd"
+
+    [[demumble.download]]
+    sha256 = "856a6ed1aafe67dac5497e7f6f8d63aa46b7765178a792ac0bfd0695ca036d67"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.aarch64-unknown-freebsd.tar.gz"
+[[demumble]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a46ca8d28e7db5131387e21963fa96a2c798f865"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "37c309dcedded931bf07a39ea0211309fb365dde331c7e2eb24e5b4643681301"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[demumble]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f0d1b56f015a8a98afa47cdb5a98afd7e2f1af8"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "fede3f52e3a1bd299a71f5f2381225964568b78689df430db5958a485e7dffda"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[demumble]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c71bff35e02b198840d4a7f0c1ceb61f6d0fdd1"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "3a5517fad5f2e02a11db2056b225ebc48bcf2464a54fda0a46cf7ed3551119b9"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[demumble]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "859b987048fa4376276e3274306d7e1cb8db0829"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "1224b7db08415885204a46d9cc5cb0914f5bd2c8cbde9aec83983bbc3e9aedb8"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[demumble]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "174b0e222f5c06228b7cdc0a1d690e6bf147f41c"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "35dbab7d315c2f0a24067c70ef471c36347f838fb5ac5319fb95f64b7f2f9bf7"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[demumble]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "183977adb8f114a13a1f19411c16130f49b9ef5c"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "42f4e8adce2a33ffff5493d0cb9dc18e8ee8e4901459e1fa80a8f0232ae3e1fc"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[demumble]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea6597153cdef5c31af07775b2b22601741ae452"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "d4fc78de2409ad362f3be7e329bd65171d83e153efbfe52799ca11d8c06fdaaa"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[demumble]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9bcaad0a6aaa6bca08657a139cc9d1059860b6e7"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "fc32d9d6eba0e853535cbc9ac13e947f87a192a3a6ac6054ee480be7219f4100"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[demumble]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "67ec8660c6287b53a97314c8549392f7af167c65"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "691cf591fb7d5ede036f36ed0564c871f2b95d29e4f8c0d0927700d3ae139b9b"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.i686-linux-gnu-cxx03.tar.gz"
+[[demumble]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7bb5d8f226c31d3dc91cda742aef12aec2d7217"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "67edd1410783e0ceea4cd27c17e8b72503f6e6437086b6001ceb7b8f71760df0"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.i686-linux-gnu-cxx11.tar.gz"
+[[demumble]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa3672e358f358fd87c351b4a6a0415350621d35"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "73495b69a239c7297b31808e447bf03ef8952e777f0eca96fdfbc9b7983ec156"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.i686-linux-musl-cxx03.tar.gz"
+[[demumble]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d53be708a0b8ac93c4f6157597eecca83b666432"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "d88f8d1c8aeb4a9a8af4057f5e59a1affe7a06cb3c3d643b728aacf4a14841e3"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.i686-linux-musl-cxx11.tar.gz"
+[[demumble]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82cebc1d74e5506f166147a81bddf961e4330589"
+os = "windows"
+
+    [[demumble.download]]
+    sha256 = "e80b860fa99434a36cac119bba6ea183285172a0ee85213b49c9ba60abdb886d"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.i686-w64-mingw32-cxx03.tar.gz"
+[[demumble]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "768335014e82b60dfe02478de47471244188a6d1"
+os = "windows"
+
+    [[demumble.download]]
+    sha256 = "5ce6b19b24d23c4d2a080bfe6143835c638c810fcb566ff524c0ba0160d62b4e"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.i686-w64-mingw32-cxx11.tar.gz"
+[[demumble]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f4392957cb49f73ce858cba7193ffad228d6bbb"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "b1ecd707175e550c69519ec3b372b42043737c69074736b3bbb2d78c2b4ea93b"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[demumble]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d04f1681f30b017917523d36fa6a03bf0cea2a9"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "38e8155e39883fde58abb738f055470f8d1012bb3ebcdd8a64162a457b2880d3"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[demumble]]
+arch = "x86_64"
+git-tree-sha1 = "c2ae7708979dbc0c8ad8f8e6bd0b5fe48b3a20e4"
+os = "macos"
+
+    [[demumble.download]]
+    sha256 = "0214ac8c94feafcbf15a8c99102f265f2c5cd0319503a7bbb298337017fe4bf6"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-apple-darwin.tar.gz"
+[[demumble]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "560888cd3c5d41e228f336568fc779fb76fb752a"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "0967bb39285570a4911cc6f6756f0a4cf3a28ba732bf3dc719dd3b40a082ee98"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-linux-gnu-cxx03.tar.gz"
+[[demumble]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "932bfbd9b1157e84f4ee9c795a9634ffb09211bb"
+libc = "glibc"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "2c4ea74b0f01a39cdbd79f42ce05a8dfee0c1c79b1f5ae6b64d6877aa433da6c"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-linux-gnu-cxx11.tar.gz"
+[[demumble]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aff6e1484df5913e42b11916935dca64641b7ae7"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "9972eabc25ae314b3be6ddf2aa7ad0ffb8984fd71dd5f62723bc06555008a75f"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-linux-musl-cxx03.tar.gz"
+[[demumble]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "439526129b2ba5e5c7747af7ce9056114099167f"
+libc = "musl"
+os = "linux"
+
+    [[demumble.download]]
+    sha256 = "3c67d2165cb4e26d9e7b2876b33f514f7af2546003b5cc829469cd9497524a0d"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-linux-musl-cxx11.tar.gz"
+[[demumble]]
+arch = "x86_64"
+git-tree-sha1 = "150f2c5cd6f2181b785f2a124f3ebf2674c89b25"
+os = "freebsd"
+
+    [[demumble.download]]
+    sha256 = "c7b6022fb2cf4840d3601254d36cd4d262eeba9553515fb7a39b5152d023dbc4"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-unknown-freebsd.tar.gz"
+[[demumble]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba4bdef89d13c5f4036c2f062db8ae7d81756298"
+os = "windows"
+
+    [[demumble.download]]
+    sha256 = "aa8e5766a0cc589688dd7313efccc0377b95c4dfdaa4924fabdc184aa41de93e"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-w64-mingw32-cxx03.tar.gz"
+[[demumble]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "526d517f582f55e3b7df06f46cc68f762c74c803"
+os = "windows"
+
+    [[demumble.download]]
+    sha256 = "6ed6f9da7b94a4ae8642a365dbecec56e76963a9599512863533a0dc339d8272"
+    url = "https://github.com/JuliaBinaryWrappers/demumble_jll.jl/releases/download/demumble-v2.1.9+0/demumble.v2.1.9.x86_64-w64-mingw32-cxx11.tar.gz"
